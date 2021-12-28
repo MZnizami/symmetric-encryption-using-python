@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>LogoMakr-7LUqSV.png</file>
+    <file>Block.png</file>
+    <file>About.png</file>
+    <file>LogoMakr-96e2nm.png</file>
+  </qresource>
+</RCC>
